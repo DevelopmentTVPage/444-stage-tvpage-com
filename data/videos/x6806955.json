@@ -23,6 +23,8 @@
     "id": "6806955",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "6807951",
     "titleTextEncoded": "How-to-Install-an-ARIES-Modular-Front-Bumper-on-a-2015-Jeep-Wrangler",
     "category": "",
     "duration": "422",
@@ -42,7 +44,20 @@
         "quality": ""
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null
