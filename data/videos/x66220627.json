@@ -1,0 +1,92 @@
+{
+    "title": "Silverado Build - Exterior & Body Protection",
+    "description": "Playing in the dirt is fun, but its important to upgrade your exterior to protect the body and paint. To keep our Silverado looking good and in pristine shape, we bolted on protective parts on all four sides.",
+    "referenceId": "ad076f764e23d6960dc985ade738c979",
+    "date_created": "1466193224",
+    "date_modified": "1467238062",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "year": null,
+    "make": "115",
+    "model": "model-2690",
+    "brand_video": null,
+    "category_video": null,
+    "status": "approved",
+    "department": null,
+    "featured_video": "yes",
+    "visibility": "1",
+    "VV_VI": "686",
+    "CVV_VI": "36",
+    "engagement_score": "5",
+    "conversion_score": "3",
+    "id": "66220627",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "Silverado-Build-Exterior-Body-Protection",
+    "category": "",
+    "duration": "273",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "Ryan",
+            "lastName": "",
+            "emailAddress": "rkartzke@autoanything.com"
+        },
+        "videoMeta": {
+            "duration": "273",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "273",
+        "prettyDuration": "00:04:33",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758237\/canvas\/655\/368\/571483058-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220627\/338c2\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220627\/338c2\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220627\/338c2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220627\/338c2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220627\/338c2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220627\/338c2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220627\/338c2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

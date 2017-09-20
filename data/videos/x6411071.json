@@ -1,0 +1,54 @@
+{
+    "title": "Pickup Truck Drag Race - Top Gear USA",
+    "description": "Top Gear USA is on a quest to find out which is America's best pickup truck - with a drag race of course. See how Ford and Chevy stack up against Dodge.",
+    "referenceId": "h88LgsH5fu0",
+    "date_created": "1442532826",
+    "date_modified": "1449011791",
+    "tags": "Ford F-150, Chevy Silverado, Dodge Ram, Top Gear USA",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "year": null,
+    "make": "23",
+    "model": "model-224",
+    "brand_video": null,
+    "category_video": null,
+    "status": "approved",
+    "department": null,
+    "featured_video": null,
+    "visibility": "1",
+    "VV_VI": "31",
+    "CVV_VI": "1",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6411071",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "Pickup-Truck-Drag-Race-Top-Gear-USA",
+    "category": null,
+    "duration": "433",
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "TopGear",
+        "hdvFlag": 1,
+        "hookText": "Top Gear USA's quest to find out which is America's best pickup truck gets underway with a drag race. Great HD clip from series 2, with hosts Adam Ferrara, ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/h88LgsH5fu0\/hqdefault.jpg",
+        "videoId": "h88LgsH5fu0",
+        "mediaDuration": "433",
+        "prettyDuration": "00:07:13"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-07-07"
+        }
+    },
+    "tvp_profiles": [
+        "26",
+        "16",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 424.01535
+}

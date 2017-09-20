@@ -1,0 +1,90 @@
+{
+    "title": "2016 Subaru WRX  Exhaust Before \/ After Borla # 140595",
+    "description": "A Before and after video of Borla # 140595 Cat Back Exhaust System",
+    "referenceId": "0d8bb82d89cd8acb72dd20212d876d9c",
+    "date_created": "1461265567",
+    "date_modified": "1461266752",
+    "tags": "Exhaust, Muffler, Subaru, WRX, Borla",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "year": null,
+    "make": "28",
+    "model": "model-1086",
+    "brand_video": "50312",
+    "category_video": null,
+    "status": "approved",
+    "department": "Exhaust, Mufflers & Tips",
+    "featured_video": null,
+    "visibility": "1",
+    "VV_VI": "823",
+    "CVV_VI": "37",
+    "engagement_score": "6",
+    "conversion_score": "3",
+    "id": "65545657",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "2016-Subaru-WRX-Exhaust-Before-After-Borla-140595",
+    "category": "",
+    "duration": "35",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "My Name is Jeff",
+            "lastName": "",
+            "emailAddress": "jheiden@autoanything.com"
+        },
+        "videoMeta": {
+            "duration": "35",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "35",
+        "prettyDuration": "00:00:35",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758237\/canvas\/655\/368\/672714124-0219201079.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65545657\/fbdc3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65545657\/fbdc3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65545657\/fbdc3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65545657\/fbdc3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65545657\/fbdc3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,92 @@
+{
+    "title": "Content Partnership Opportunities",
+    "description": "We are excited to partner with auto enthusiasts that are driven to help, educate and entertain others. To get involved, go to AutoAnything.TV\/contests and upload your best video now!",
+    "referenceId": "5f73c27181c87e3e98e3be927ab24857",
+    "date_created": "1459286729",
+    "date_modified": "1459287771",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "year": null,
+    "make": null,
+    "model": null,
+    "brand_video": null,
+    "category_video": null,
+    "status": "approved",
+    "department": null,
+    "featured_video": null,
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "59899781",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "Content-Partnership-Opportunities",
+    "category": "",
+    "duration": "87",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "The Dude",
+            "lastName": "",
+            "emailAddress": "rkartzke@autoanything.com"
+        },
+        "videoMeta": {
+            "duration": "87",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "87",
+        "prettyDuration": "00:01:27",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/59899781\/48ee1\/thumb-5f73c27181c87e3e98e3be927ab24857-00002.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/59899781\/48ee1\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/59899781\/48ee1\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/59899781\/48ee1\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/59899781\/48ee1\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/59899781\/48ee1\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/59899781\/48ee1\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/59899781\/48ee1\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

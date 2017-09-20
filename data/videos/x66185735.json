@@ -1,0 +1,92 @@
+{
+    "title": "Happy Father's Day",
+    "description": "To all the dads out there, this one's for you.  Happy Father's Day, from our family to yours.",
+    "referenceId": "9741033d7589e27201107aed0a7f10e5",
+    "date_created": "1465947675",
+    "date_modified": "1466170139",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "year": null,
+    "make": null,
+    "model": null,
+    "brand_video": null,
+    "category_video": null,
+    "status": "approved",
+    "department": null,
+    "featured_video": "yes",
+    "visibility": "1",
+    "VV_VI": "1867",
+    "CVV_VI": "104",
+    "engagement_score": "15",
+    "conversion_score": "10",
+    "id": "66185735",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "Happy-Father-s-Day",
+    "category": "",
+    "duration": "62",
+    "settings": {},
+    "asset": {
+        "user": {
+            "firstName": "james",
+            "lastName": "",
+            "emailAddress": "jdaly@autoanything.com"
+        },
+        "videoMeta": {
+            "duration": "62",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "62",
+        "prettyDuration": "00:01:02",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758237\/canvas\/655\/368\/442413075-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185735\/fe104\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185735\/fe104\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185735\/fe104\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185735\/fe104\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185735\/fe104\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185735\/fe104\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185735\/fe104\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}
