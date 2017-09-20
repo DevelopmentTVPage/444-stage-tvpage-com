@@ -1,0 +1,97 @@
+{
+    "title": "SEMA Ignited 2015 - The Ultimate Car Show",
+    "description": "The 2015 SEMA Ignited After Party was a truly mind-bending event. From Formula Drift to lifted trucks you need a ladder to get into, you'll see it here.",
+    "referenceId": "80164bc207b747e6c525767eb5f94dd4",
+    "date_created": "1452197596",
+    "date_modified": "1453400753",
+    "tags": "SEMA",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "year": null,
+    "make": null,
+    "model": null,
+    "brand_video": null,
+    "category_video": null,
+    "status": "approved",
+    "department": null,
+    "featured_video": "yes",
+    "visibility": "1",
+    "VV_VI": "11758",
+    "CVV_VI": "1026",
+    "engagement_score": "96",
+    "conversion_score": "100",
+    "id": "25837976",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "SEMA-Ignited-2015-The-Ultimate-Car-Show",
+    "category": "",
+    "duration": "282",
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "282",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "282",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758237\/canvas\/655\/368\/847302522-0322081240.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25837976\/dash.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25837976\/hls.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25837976\/1080p_fd0f7_autoanything-sema-ignited-2015-sema-2015.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25837976\/720p_fd0f7_autoanything-sema-ignited-2015-sema-2015.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25837976\/480p_fd0f7_autoanything-sema-ignited-2015-sema-2015.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25837976\/360p_fd0f7_autoanything-sema-ignited-2015-sema-2015.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25837976\/240p_fd0f7_autoanything-sema-ignited-2015-sema-2015.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25837976\/144p_fd0f7_autoanything-sema-ignited-2015-sema-2015.mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:04:42"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

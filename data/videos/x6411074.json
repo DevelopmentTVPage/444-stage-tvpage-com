@@ -1,0 +1,54 @@
+{
+    "title": "Road Test: 2014 Nissan Frontier PRO-4X Torture Towing Test",
+    "description": "TFL takes the 2014 Nissan Frontier PRO-4X through the first mid-sized Ike Gauntlet Torture Towing Test. See how it does!",
+    "referenceId": "CVmkyW_N9cU",
+    "date_created": "1442532890",
+    "date_modified": "1449013718",
+    "tags": "Nissan Frontier PRO-4X, Mid-size Towing Test",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "year": null,
+    "make": "9",
+    "model": "model-97",
+    "brand_video": null,
+    "category_video": null,
+    "status": "approved",
+    "department": null,
+    "featured_video": null,
+    "visibility": "1",
+    "VV_VI": "10",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6411074",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "Road-Test-2014-Nissan-Frontier-PRO-4X-Torture-Towing-Test",
+    "category": null,
+    "duration": "926",
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "tflcar",
+        "hdvFlag": 1,
+        "hookText": "http:\/\/www.TFLtruck.com ) The 2014 Nissan Frontier PRO-4X is a mid-sized pickup that is built to go off-road. But not today. Instead we are putting it through the ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CVmkyW_N9cU\/hqdefault.jpg",
+        "videoId": "CVmkyW_N9cU",
+        "mediaDuration": "926",
+        "prettyDuration": "00:15:26"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-07-07"
+        }
+    },
+    "tvp_profiles": [
+        "11",
+        "26",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 276.61957
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Road Test: 2015 Nissan Frontier PRO-4X",
+    "description": "See what TFL has to say when they take the 2015 Nissan Frontier Crew Cab PRO-4X bashing through the snow, high in the Rocky Mountains of Colorado.",
+    "referenceId": "otgynR7RyCM",
+    "date_created": "1442532888",
+    "date_modified": "1449013553",
+    "tags": "2015 Nissan Frontier PRO-4X, Nissan Frontier",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "year": null,
+    "make": "9",
+    "model": "model-97",
+    "brand_video": null,
+    "category_video": null,
+    "status": "approved",
+    "department": null,
+    "featured_video": null,
+    "visibility": "1",
+    "VV_VI": "19",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "6411073",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "Road-Test-2015-Nissan-Frontier-PRO-4X",
+    "category": null,
+    "duration": "382",
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "tflcar",
+        "hdvFlag": 1,
+        "hookText": "http:\/\/www.TFLtruck.com ) The 2015 Nissan Frontier Crew Cab PRO-4X bashing in the snow high in the Rocky Mountains of Colorado. FYI - you can also see ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/otgynR7RyCM\/hqdefault.jpg",
+        "videoId": "otgynR7RyCM",
+        "mediaDuration": "382",
+        "prettyDuration": "00:06:22"
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-07-07"
+        }
+    },
+    "tvp_profiles": [
+        "25",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 402.67847
+}

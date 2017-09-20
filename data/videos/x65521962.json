@@ -1,0 +1,92 @@
+{
+    "title": "2016 Subaru WRX w\/ Borla 140595 Exhaust Revving",
+    "description": "2016 Subaru WRX with Borla cat-back exhaust, part number 140595",
+    "referenceId": "1d2ad01de41fd977dabe4af6f0b2033c",
+    "date_created": "1461076932",
+    "date_modified": "1461264359",
+    "tags": "Subaru WRX, 2016 wrx, borla exhaust, performance exhaust, cat-back, borla 140595",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "year": null,
+    "make": "28",
+    "model": "model-1086",
+    "brand_video": "50312",
+    "category_video": null,
+    "status": "approved",
+    "department": "Exhaust, Mufflers & Tips",
+    "featured_video": null,
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "65521962",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "2016-Subaru-WRX-w-Borla-140595-Exhaust-Revving",
+    "category": "",
+    "duration": "24",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "Chris Bronson",
+            "lastName": "",
+            "emailAddress": "chrisbronson228@gmail.com"
+        },
+        "videoMeta": {
+            "duration": "24",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65521962\/4c195\/thumb-1d2ad01de41fd977dabe4af6f0b2033c-00001.png",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65521962\/4c195\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65521962\/4c195\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65521962\/4c195\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65521962\/4c195\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65521962\/4c195\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65521962\/4c195\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/65521962\/4c195\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

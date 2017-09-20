@@ -1,0 +1,92 @@
+{
+    "title": "Silverado Build - Suspension & Brakes",
+    "description": "Truck Dynasty gets a new set of shoes to compliment a freshly installed lift kit from ReadyLift Offroad.",
+    "referenceId": "94c4d500adfb88bbf921f084c787dc3c",
+    "date_created": "1466198870",
+    "date_modified": "1467237934",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "year": null,
+    "make": "115",
+    "model": "model-2690",
+    "brand_video": null,
+    "category_video": null,
+    "status": "approved",
+    "department": null,
+    "featured_video": "yes",
+    "visibility": "1",
+    "VV_VI": "1481",
+    "CVV_VI": "120",
+    "engagement_score": "12",
+    "conversion_score": "11",
+    "id": "66220813",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "Silverado-Build-Suspension-Brakes",
+    "category": "",
+    "duration": "165",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "Ryan",
+            "lastName": "",
+            "emailAddress": "rkartzke@autoanything.com"
+        },
+        "videoMeta": {
+            "duration": "165",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "165",
+        "prettyDuration": "00:02:45",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758237\/canvas\/655\/368\/208684929-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220813\/219c9\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220813\/219c9\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220813\/219c9\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220813\/219c9\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220813\/219c9\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220813\/219c9\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66220813\/219c9\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

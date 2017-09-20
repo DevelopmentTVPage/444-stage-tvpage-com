@@ -1,0 +1,97 @@
+{
+    "title": "DECKED Truck Bed Storage",
+    "description": "Decked Truck Bed Storage System for your Truck Bed",
+    "referenceId": "f8cf2409a80c2c1c1a8db416d57a0a76",
+    "date_created": "1453490527",
+    "date_modified": "1453490848",
+    "tags": "Decked, Truck Bed Storage, Bed,",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "year": null,
+    "make": null,
+    "model": null,
+    "brand_video": "56709",
+    "category_video": null,
+    "status": "approved",
+    "department": "Truck Bed Accessories",
+    "featured_video": null,
+    "visibility": "1",
+    "VV_VI": "186",
+    "CVV_VI": "9",
+    "engagement_score": "1",
+    "conversion_score": null,
+    "id": "25973491",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "DECKED-Truck-Bed-Storage",
+    "category": "",
+    "duration": "31",
+    "settings": null,
+    "asset": {
+        "user": {
+            "firstName": "jeff",
+            "lastName": "",
+            "emailAddress": "jheiden@autoanything.com"
+        },
+        "videoMeta": {
+            "duration": "31",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "31",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758237\/canvas\/655\/368\/812685765-026600363.JPG",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25973491\/dash.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25973491\/hls.m3u8",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25973491\/1080p_10ef5_30_Sec_Auto_Anything_Commercial_(1).mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25973491\/720p_10ef5_30_Sec_Auto_Anything_Commercial_(1).mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25973491\/480p_10ef5_30_Sec_Auto_Anything_Commercial_(1).mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25973491\/360p_10ef5_30_Sec_Auto_Anything_Commercial_(1).mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25973491\/240p_10ef5_30_Sec_Auto_Anything_Commercial_(1).mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/25973491\/144p_10ef5_30_Sec_Auto_Anything_Commercial_(1).mp4",
+                "quality": "144p",
+                "mime": "video\/mp4",
+                "width": 256,
+                "height": 144
+            }
+        ],
+        "prettyDuration": "00:00:31"
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Truck Hero Commercial 1",
+    "description": "Truck Hero Tonneau Covers",
+    "referenceId": "8a2614ed986fe142a120bd92caa2f99e",
+    "date_created": "1465929814",
+    "date_modified": "1465931461",
+    "tags": "Tonneau Covers, Truck Bed Covers, Extang, Bak, undercover, truxedo, retrax, Tonneau",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "year": null,
+    "make": null,
+    "model": null,
+    "brand_video": null,
+    "category_video": null,
+    "status": "approved",
+    "department": "Tonneau Covers",
+    "featured_video": null,
+    "visibility": "1",
+    "VV_VI": "54",
+    "CVV_VI": "2",
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "66185478",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "Truck-Hero-Commercial-1",
+    "category": "",
+    "duration": "30",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "Jeff",
+            "lastName": "",
+            "emailAddress": "jheiden@autoanything.com"
+        },
+        "videoMeta": {
+            "duration": "30",
+            "width": 960,
+            "height": 540
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/thumb-8a2614ed986fe142a120bd92caa2f99e-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 960,
+                "height": 540
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

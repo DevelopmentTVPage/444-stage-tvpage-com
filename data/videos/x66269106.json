@@ -1,0 +1,92 @@
+{
+    "title": "Silverado Build - Electrical & Lighting",
+    "description": "The fun doesn't have to stop when the sun goes down. The LED lights we installed will bring the super-nova brightness to keep the party rolling.",
+    "referenceId": "7568bb75d1f7cad03ab27048b3482f89",
+    "date_created": "1466636820",
+    "date_modified": "1467238073",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "year": null,
+    "make": "115",
+    "model": "model-2690",
+    "brand_video": null,
+    "category_video": null,
+    "status": "approved",
+    "department": null,
+    "featured_video": "yes",
+    "visibility": "1",
+    "VV_VI": "7910",
+    "CVV_VI": "635",
+    "engagement_score": "65",
+    "conversion_score": "61",
+    "id": "66269106",
+    "loginId": "1758237",
+    "entityType": "1",
+    "titleTextEncoded": "Silverado-Build-Electrical-Lighting",
+    "category": "",
+    "duration": "216",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "Ryan",
+            "lastName": "",
+            "emailAddress": "rkartzke@autoanything.com"
+        },
+        "videoMeta": {
+            "duration": "216",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "216",
+        "prettyDuration": "00:03:36",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758237\/canvas\/655\/368\/670885165-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66269106\/4a9ef\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66269106\/4a9ef\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66269106\/4a9ef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66269106\/4a9ef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66269106\/4a9ef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66269106\/4a9ef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66269106\/4a9ef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}
