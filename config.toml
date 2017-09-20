@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "test"
+baseURL = "https:\/\/stage.tvpage.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758237"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "tvpage.com"
