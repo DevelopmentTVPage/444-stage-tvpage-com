@@ -1,0 +1,24 @@
+{
+    "title": "Aries",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1446168450",
+    "date_modified": "1466188464",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "6807951",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "Aries",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "885696561-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "885696561-0119201080.jpg"
+    },
+    "transcripts": null
+}
